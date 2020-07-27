@@ -5,11 +5,11 @@ Deployment Plan
 
 #Resources needed to support the product
 1. IDE - Eclipse/IntelliJ
-2. Windows/Max Machine
-3. Browser Installed - Chrome, Firefox, Edge (in case of Windows OS)
+2. Windows/Mac Machine
+3. Browsers - Chrome, Firefox, Edge (in case of Windows OS)
 4. Internet Connection
 
-#Project can be imported from zip file or can be cloned from the git-hub (link shared on e-mail)
+#Project can be imported from zip file or can be cloned from the git-hub https://github.com/s-vish/ui-api-harmony
 
 #Project Structure
 1. src/test/java - all sub-packages contains only Test executable methods.
